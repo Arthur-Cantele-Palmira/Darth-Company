@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+.fotoProdutos{
+    width: 285px;
+    height: 270px;
+}
+
+.conteudoPrincipal{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.preco{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 30%;
+    justify-content: center;
+}
+
+.produtoLink{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    text-decoration: none;
+    
+}
+
+.container :hover{
+    color: white;
+    transition: 0.4s;
+}
+
+.produtoLink :hover{
+    transform: scale(1.01);
+    transition: 0.4s;
+}
