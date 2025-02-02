@@ -13,7 +13,7 @@ Este repositório contém o código-fonte do site da **Darth Company**, uma empr
 *Adicione aqui prints do site para mostrar o visual e funcionalidades.*
 
 ```
-![image](https://github.com/user-attachments/assets/a007835c-7593-46a5-8085-17ac59f88012)
+![Image](https://github.com/user-attachments/assets/d1038dec-f30e-4161-84d2-7357bb45f25b)
 ```
 
 ## 📦 Como Clonar o Repositório
