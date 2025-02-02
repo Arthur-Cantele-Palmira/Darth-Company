@@ -13,7 +13,9 @@ Este repositório contém o código-fonte do site da **Darth Company**, uma empr
 *Adicione aqui prints do site para mostrar o visual e funcionalidades.*
 
 ```
-![Image](https://github.com/user-attachments/assets/d1038dec-f30e-4161-84d2-7357bb45f25b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1038dec-f30e-4161-84d2-7357bb45f25b" alt="Exemplo da HelpLine" width="400">
+</p>
 ```
 
 ## 📦 Como Clonar o Repositório
